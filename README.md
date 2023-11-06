@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lukas</h1>
 <h3 align="center">A full-stack developer from Austria</h3>
 
-- 🔭 I’m currently working on [✨ Artworkle ✨](https://github.com/LukGer/Artworkle)
-
 - 🌱 I’m currently learning **Svelte, Astro**
-
-- 📫 How to reach me **lukger1999@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
